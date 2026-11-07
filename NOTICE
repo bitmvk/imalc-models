@@ -1,0 +1,1 @@
+This repository contains derivatives of LiquidAI/d1-2B (https://huggingface.co/LiquidAI/d1-2B), Copyright Liquid AI, licensed under the LFM Open License v1.0 (see LICENSE). The files were converted, quantized and compiled for on-device inference. They are not official Liquid AI releases.
